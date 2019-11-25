@@ -1,4 +1,4 @@
-# first_app
+# ComCom
 
 A new Flutter application.
 
